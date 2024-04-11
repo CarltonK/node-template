@@ -1,0 +1,12 @@
+{
+  "name": "template-for-my-organization",
+  "version": "1.0.0",
+  "description": "This is a repo created fot my organization",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "My Organization",
+  "license": "ISC"
+}
